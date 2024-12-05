@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Futura";
+    src: url(../public/fonts/futura.ttf);
+  }
+  @font-face {
+    font-family: "Futura Light";
+    src: url(../public/fonts/futura_light.ttf);
+  }
