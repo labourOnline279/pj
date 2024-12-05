@@ -1,0 +1,39 @@
+{
+  "name": "umer-bazaz",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "formik": "^2.4.6",
+    "framer-motion": "^11.4.0",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.16",
+    "next": "14.1.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-icons": "^5.0.1",
+    "react-parallax": "^3.5.1",
+    "react-scroll-parallax": "^3.4.5",
+    "react-toastify": "^10.0.6",
+    "resend": "^4.0.1",
+    "umer-bazaz": "file:",
+    "yet-another-react-lightbox": "^3.21.4",
+    "yup": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.3",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0",
+    "typescript": "^5"
+  }
+}
